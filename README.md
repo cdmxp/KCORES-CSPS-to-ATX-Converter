@@ -30,7 +30,7 @@ KCORES CSPS to ATX Converter 可以用于引脚特征如下图所示的电源
 
 ![辨别 CSPS 电源](Document/Image/Cover/Distinguish_CSPS.jpg)
 
-目前已知 Hewlett Packard Enterprise 与 Huawei 大量生产过 CSPS.  
+目前已知 Hewlett Packard Enterprise 与 Huawei 大量生产过 CSPS (Common Slot Power Supply).  
 不同厂家生产的 CSPS 可能外形略有不同, 但金手指必须与图示一致才可使用.  
 
 ## Getting Started Guide
